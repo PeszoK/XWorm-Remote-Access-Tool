@@ -1,6 +1,6 @@
 ![adz](https://i.imgur.com/qXNUans.png)
 
-## XWorm RAT V5.0 cracked by NyxTeam 👑
+## XWorm RAT V5.0 👑
 
 ## ⚠️ 〢 DISCLAIMER
 This project was made for educational purposes and personal use. You hold responsibility, liability and accountability for any consequences caused by your actions.
